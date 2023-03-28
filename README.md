@@ -96,4 +96,7 @@
 - Step 7: **Merged column B and C in final dataframe**.
 - Step 8: **Converted column B and C into int**.
 - Step 9: **Dropped city_category column**.
-- 
+
+#### Handling null values
+- Step 1 :Find out for **each product_id's how many values corresponding are in  product_category_1, product_category_2 and product_category_3.**
+- ![Screenshot%202023-03-26%20at%2018.31.44.png](attachment:Screenshot%202023-03-26%20at%2018.31.44.png)
