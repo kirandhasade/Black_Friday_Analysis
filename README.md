@@ -82,6 +82,8 @@
   - It has 233599 null values.
   - It is of float datatype.
 
-### Phase 3: Data Cleaning and Handling Null Values
+### Phase 3: Data Cleaning and Handling Null Values
 
 #### Data cleaning
+- Step 1: **Dropped user_id column** as we don't need for further analysis.
+- Step 2: 
