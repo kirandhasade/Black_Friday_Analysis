@@ -86,8 +86,11 @@
 
 #### Data cleaning
 - Step 1: **Dropped user_id column** as we don't need for further analysis.
-- Step 2: **Converting gender column into numeric value i.e. Female:0 and Male:1** as it is a categorical variable and we have to convert it into numerical variable.
+- Step 2: **Converted gender column into numeric value i.e. Female:0 and Male:1** as it is a categorical variable and we have to convert it into numerical variable.
 - <img width="400" alt="Screenshot 2023-03-28 at 15 41 39" src="https://user-images.githubusercontent.com/127043120/228275171-ab09d09c-d522-4093-9f2b-52aa6a63a964.png">
-- Step 3: **Converting age column and giving rank with respect to age** as it is a categorical variable and we have to convert it into numerical variable.
+- Step 3: **Converted age column and giving rank with respect to age** as it is a categorical variable and we have to convert it into numerical variable.
 - <img width="726" alt="Screenshot 2023-03-28 at 16 00 51" src="https://user-images.githubusercontent.com/127043120/228280931-a1f7c6ae-2d14-4c73-8798-f5f16dae0bc0.png">
+- Step 4: **Replaced '4+' with 4 in stay_in_current_city_years column**.
+- Step 5: **Converted  stay_in_current_city_years into int**.
+- Step 6: **Converted city_category column in numeric value** i.e.0 for B, 1 for C, and B = 0 C = 1 means category A, hence removing 1 column. 
 
