@@ -23,7 +23,7 @@
 - The dataset comes from a competition hosted by Analytics Vidhya.
 - The dataset has 783667 rows and 12 columns.
 
-### Phase 2: Data Understanding
+### Phase 2: Data Understanding
 ### Observation
 
   1. user_id
