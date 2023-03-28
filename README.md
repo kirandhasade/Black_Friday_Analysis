@@ -86,4 +86,6 @@
 
 #### Data cleaning
 - Step 1: **Dropped user_id column** as we don't need for further analysis.
-- Step 2: 
+- Step 2: **Converting gender column into numeric value i.e. Female:0 and Male:1** as it is a categorical variable and we have to convert it into numerical variable.
+- <img width="400" alt="Screenshot 2023-03-28 at 15 41 39" src="https://user-images.githubusercontent.com/127043120/228275171-ab09d09c-d522-4093-9f2b-52aa6a63a964.png">
+
