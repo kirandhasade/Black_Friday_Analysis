@@ -81,3 +81,7 @@
   - Represents purchasing amount of the customer.
   - It has 233599 null values.
   - It is of float datatype.
+
+### Phase 3: Data Cleaning and Handling Null Values
+
+#### Data cleaning
