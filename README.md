@@ -93,4 +93,7 @@
 - Step 4: **Replaced '4+' with 4 in stay_in_current_city_years column**.
 - Step 5: **Converted  stay_in_current_city_years into int**.
 - Step 6: **Converted city_category column in numeric value** i.e.0 for B, 1 for C, and B = 0 C = 1 means category A, hence removing 1 column. 
-
+- Step 7: **Merged column B and C in final dataframe**.
+- Step 8: **Converted column B and C into int**.
+- Step 9: **Dropped city_category column**.
+- 
