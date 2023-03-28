@@ -99,4 +99,9 @@
 
 #### Handling null values
 - Step 1 :Find out for **each product_id's how many values corresponding are in  product_category_1, product_category_2 and product_category_3.**
-- <img width="503" alt="Screenshot 2023-03-26 at 18 31 44" src="https://user-images.githubusercontent.com/127043120/228299864-bfe15791-6a49-4fda-89cc-7459a2003982.png">
+- <img width="503" alt="Screenshot 2023-03-26 at 18 31 44" src="https://user-images.githubusercontent.com/127043120/228299864-bfe15791-6a49-4fda-89cc-7459a2003982.png">.
+- Step 2:  **We are not able to find corresponding values for null's in product_category_2 ,product_category_3** for each particular product_id hence why we are replacing it with zero.
+- Step 3: **Replaced null values with zero in product_category_2 column**.
+- Step 4: **Replaced null values with zero in product_category_3 column**.
+- Step 5: **Null purchase amount will be imputed or replace by mean value based on product_id** 
+- <img width="984" alt="Screenshot 2023-03-28 at 17 22 53" src="https://user-images.githubusercontent.com/127043120/228305804-5c9c8dd0-bd29-46bb-bb64-93dc45f2833e.png">
