@@ -104,5 +104,4 @@
 - Step 3: **Replaced null values with zero in product_category_2 column**.
 - Step 4: **Replaced null values with zero in product_category_3 column**.
 - Step 5: **Null purchase amount will be imputed or replace by mean value based on product_id** 
-- 
-<img width="897" alt="Screenshot 2023-03-28 at 17 24 03" src="https://user-images.githubusercontent.com/127043120/228305987-1f4769c9-17f2-4e4a-ac9e-f93d985e76c4.png">
+- <img width="897" alt="Screenshot 2023-03-28 at 17 24 03" src="https://user-images.githubusercontent.com/127043120/228305987-1f4769c9-17f2-4e4a-ac9e-f93d985e76c4.png">
