@@ -99,4 +99,4 @@
 
 #### Handling null values
 - Step 1 :Find out for **each product_id's how many values corresponding are in  product_category_1, product_category_2 and product_category_3.**
-- ![Screenshot%202023-03-26%20at%2018.31.44.png](attachment:Screenshot%202023-03-26%20at%2018.31.44.png)
+- <img width="503" alt="Screenshot 2023-03-26 at 18 31 44" src="https://user-images.githubusercontent.com/127043120/228299864-bfe15791-6a49-4fda-89cc-7459a2003982.png">
