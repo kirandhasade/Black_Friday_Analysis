@@ -108,3 +108,25 @@
 - Step 6: **There are still 61 null values present in purchase column** eventhough after replacing purchase column with mean.
 - Step 7: **Deleted 61 null record values** as there is no rows in dataset to compute mean as their corresponding purchase column contains null values. 
 - Alternatively in real world scenarios we might ask accounts team to check the records and give information on purchase column and replace it with correct records.
+
+###  Phase 4:Data Analysis
+#### Q.1 Which age group has purchased more number of products?
+- 1. Age and Purchase graph has a uniform distribution.
+- 2. Purchasing of men is slightly more in age-group 51-55.
+- <img width="665" alt="Q 1 screenshot" src="https://user-images.githubusercontent.com/127043120/228579128-dddc577e-0f38-463e-952d-3b20494c7cd3.png">
+
+#### Q.2 Which product category has been sold most?
+- product_category_1 has been purchased more than product_category_2 and product_category_3.
+- <img width="645" alt="Q 2_a screenshot" src="https://user-images.githubusercontent.com/127043120/228579484-6788ca23-d793-4c6b-9b4d-ff2bd5a78178.png">
+
+- <img width="670" alt="Q 2_b screenshot" src="https://user-images.githubusercontent.com/127043120/228579578-7cb1cd66-d18d-4759-940a-5749cee85225.png">
+- <img width="665" alt="Q 2_c screenshot" src="https://user-images.githubusercontent.com/127043120/228579652-6f1990dd-c8b6-444f-bf18-c0ffb67b4b00.png">
+
+#### Q.3 Which city_category has more purchases? 
+- B city_category has more number of counts hence it might represents the urban area where most of the population resides.
+<img width="659" alt="Q 3 screenshot" src="https://user-images.githubusercontent.com/127043120/228580235-922eb730-87de-47df-b2c4-6be23414f78c.png">
+
+#### Q.4 What will be the purchases with respect to staying in current city?
+- The tendency looks like the longest someone is living in that city the less prone they are to buy new things.
+- Hence, if someone is new in town and needs a great number of new things for their house that they’ll take advantage of the low prices in Black Friday to purchase all the things needed.
+- <img width="696" alt="Q 4 scrrenshot" src="https://user-images.githubusercontent.com/127043120/228581107-bb67f389-b243-4a42-b1e8-34d7ab2cd532.png">
