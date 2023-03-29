@@ -129,4 +129,4 @@
 #### Q.4 What will be the purchases with respect to staying in current city?
 - The tendency looks like the longest someone is living in that city the less prone they are to buy new things.
 - Hence, if someone is new in town and needs a great number of new things for their house that they’ll take advantage of the low prices in Black Friday to purchase all the things needed.
-- <img width="696" alt="Q 4 scrrenshot" src="https://user-images.githubusercontent.com/127043120/228581107-bb67f389-b243-4a42-b1e8-34d7ab2cd532.png">
+ <img width="696" alt="Q 4 scrrenshot" src="https://user-images.githubusercontent.com/127043120/228581107-bb67f389-b243-4a42-b1e8-34d7ab2cd532.png">
