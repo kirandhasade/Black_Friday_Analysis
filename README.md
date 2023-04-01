@@ -1,7 +1,7 @@
 # Project Name: Black_Friday_Analysis
 ## Project Objective
 - A retail company “ABC Private Limited” wants to understand the customer purchase behaviour (specifically, purchase amount) against various products of different categories. They have shared purchase summaries of various customers for selected high-volume products from last month.
-- The objective is to clean, prepare and analyse the Black friday Sales dataset taken from Analytics Vidhya.
+- The objective is to clean, prepare and analyse the Black Friday Sales dataset taken from Analytics Vidhya (website).
 - We have to analyze and the sales of an product in the retail store based on age, gender, marital status, occupation of the dataset. 
 
 
@@ -19,7 +19,13 @@
 
 ### Phase 1: Data Collection
 #### Dataset information:
-- The dataset used in this analysis contains information of transactions in a store on Black Friday, including customers' demographical features (age, gender, marital status, city type, stay in the current city), product details (productid and product category) and transaction details also total purchase amount from last month.
+- The dataset used in this analysis contains information of transactions in a store on Black Friday includes:
+      - Customers' Demographical:
+            - age, gender, marital status, city type, stay in the current city 
+      - Product details 
+            - productid and product category 
+      - Transaction details and
+      - Total purchase amount from last month.
 - The dataset comes from a competition hosted by Analytics Vidhya.
 - The dataset has 783667 rows and 12 columns.
 
@@ -31,37 +37,32 @@
   - It is of int datatype.
   
   2. product_id
-  - Represents unique_id of the product.
-  - It is of Object data type.
+  - Unique_id for each product.
   
   3. gender
-  - Reprsents Sex of the customer.
-  - It is of object datatype.
-  - It is categorical type variable.
+  - Reprsents gender of the customer.
+  - Categorical variable type.
   
   4. age
-  - Represents Age of the customer.
-  - It is of Object datatype.
-  - It is categorical type variable. 
+  - Represents age range of the customer.
+  - Categorical variable type.
    
   5. occupation
-  - Represents Occupation code of teh customer.
+  - Represents Occupation code of the customer.
   - It is of int datatype.
-  - It is categorical type variable. 
+  - Categorical variable type. 
   
   
   6. city_category
   - Represents city of the customer where he is residing.
-  - It is of object datatype.
-  - It is categorical type variable. 
+  - Categorical variable type.
   
   7. stay_in_current_city_years
   - Represents number of years of stay in city in years.
-  - It is of object datatype.
   
   8. martial_status
-  - Represents maritial status of customer.
-  - It is of object datatype.
+  - Represents martial status i.e customer married or not.
+  - Boolean variable type.
   
   9. product_category_1
   - Represents category of product.
