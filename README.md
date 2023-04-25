@@ -16,8 +16,7 @@
  8. What average spend on each product of  product_categories?
  9. What average spend on each city?
  10. What average spend on each occupation?
- 11. Top 10 most popular sold products?<img width="647" alt="Screenshot 2023-04-25 at 11 37 15" src="https://user-images.githubusercontent.com/127043120/234252078-e4867782-c8bb-4b83-90b8-9d3bdb132f1d.png">
-
+ 11. Top 10 most popular sold products?
  12. Top 10 most expensive sold products?
  13. How many products are sold by each city_category?
  
@@ -143,7 +142,7 @@
 - Most popular products may help the merchant adjust their business strategy and can prepare for the next shopping season better so that to increase revenue and profit.
 
 #### Q.5 Which city_category has more purchases? 
- ![Screenshot 2023-04-25 at 11 29 59](https://user-images.githubusercontent.com/127043120/234250393-44bdd9ff-9b90-4c09-87b7-38f9d2731a8c.png)
+- ![Screenshot 2023-04-25 at 11 29 59](https://user-images.githubusercontent.com/127043120/234250393-44bdd9ff-9b90-4c09-87b7-38f9d2731a8c.png)
 - <img width="653" alt="Screenshot 2023-04-25 at 11 38 15" src="https://user-images.githubusercontent.com/127043120/234252317-8511290c-06d2-4edc-ad3e-b5def75dc9d5.png">
 - B city_category has more number of counts hence it might represents the urban area where most of the population resides.
 - City B might be larger than City A & Citi C and thus has a larger population.
@@ -170,7 +169,7 @@
  
  #### Q.9 What average spend on each city?
  <img width="672" alt="Screenshot 2023-04-25 at 12 27 55" src="https://user-images.githubusercontent.com/127043120/234262892-22659025-92ee-4ac7-8934-3673e15e8bfa.png">
--  Average spend of C city_category is the highest i.e. rupees 9708.52 followed by city_category B and city_category A.
+- Average spend of C city_category is the highest i.e. rupees 9708.52 followed by city_category B and city_category A.
 
 #### Q.10 What average spend on each occupation?
 <img width="1006" alt="Screenshot 2023-04-25 at 12 30 58" src="https://user-images.githubusercontent.com/127043120/234263548-9807e3a5-c796-4426-8893-da5ca9a448b7.png">
