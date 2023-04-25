@@ -172,7 +172,7 @@
 
 #### Q.10 What average spend on each occupation?
 - <img width="1006" alt="Screenshot 2023-04-25 at 12 30 58" src="https://user-images.githubusercontent.com/127043120/234263548-9807e3a5-c796-4426-8893-da5ca9a448b7.png">
-  - Occupation 17 has highest average spend i.e. approxiately rupees 9804 followed by occupation 15 and occupation 12 i.e. approximately  9793 and 9791 respectively.
+- Occupation 17 has highest average spend i.e. approxiately rupees 9804 followed by occupation 15 and occupation 12 i.e. approximately  9793 and 9791 respectively.
 
 #### Q.11 Top 10 most popular sold products?
 ![Screenshot 2023-04-25 at 12 32 38](https://user-images.githubusercontent.com/127043120/234263920-d5b6bd38-4304-491a-ad8e-eaf9d3bfd612.png)
