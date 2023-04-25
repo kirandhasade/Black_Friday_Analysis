@@ -159,10 +159,9 @@
  - This chart shows females spend more as compared to males on average.
 
 #### Q.8 What average spend on each product of  product_categories?
-- ![Screenshot 2023-04-25 at 12 24 09](https://user-images.githubusercontent.com/127043120/234262060-d1a60276-86bb-4109-84b5-b2fa686f7852.png)
-- ![Screenshot 2023-04-25 at 12 24 42](https://user-images.githubusercontent.com/127043120/234262173-bacc8b14-a34a-437f-919d-8abed6ed180c.png)
-![Screenshot 2023-04-25 at 12 25 04](https://user-images.githubusercontent.com/127043120/234262253-cfc3ad2c-22fd-4db7-942e-04e774f1be80.png)
-
+- <img width="1009" alt="Screenshot 2023-04-25 at 12 43 28" src="https://user-images.githubusercontent.com/127043120/234266218-7c18762b-4b13-431a-a3d8-6fe946fda503.png">
+- <img width="1011" alt="Screenshot 2023-04-25 at 12 43 55" src="https://user-images.githubusercontent.com/127043120/234266331-c8efe371-9c4a-4923-8e82-805193782e20.png">
+<img width="994" alt="Screenshot 2023-04-25 at 12 44 17" src="https://user-images.githubusercontent.com/127043120/234266404-1460d6a9-14e4-46b3-b879-e645904f6a1d.png">
 - Average spend on highest product **(10)** in product_category_1 , lowest average product **(19)** is  and average medium product is **(17)**  whose prices are approximately **20,000 , 37, and 10,000 rupees** respectively.
  - Average spend on highest product **(10.0)** in product_category_2 , lowest average product **(7.0)** is  and average medium product is **(17.0)**  whose prices are approximately **15,000 , 6000, and 9,000 rupees** respectively.
  - Average spend on highest product **(3.0)** in product_category_2 , lowest average product **(0.0)** is  and average medium product is **(11.0)**  whose prices are approximately **14,000 , 8000, and 12,000 rupees** respectively.
