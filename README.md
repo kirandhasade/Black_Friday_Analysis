@@ -162,9 +162,9 @@
 - <img width="1009" alt="Screenshot 2023-04-25 at 12 43 28" src="https://user-images.githubusercontent.com/127043120/234266218-7c18762b-4b13-431a-a3d8-6fe946fda503.png">
 - <img width="1011" alt="Screenshot 2023-04-25 at 12 43 55" src="https://user-images.githubusercontent.com/127043120/234266331-c8efe371-9c4a-4923-8e82-805193782e20.png">
 <img width="994" alt="Screenshot 2023-04-25 at 12 44 17" src="https://user-images.githubusercontent.com/127043120/234266404-1460d6a9-14e4-46b3-b879-e645904f6a1d.png">
-- Average spend on highest product **(10)** in product_category_1 , lowest average product **(19)** is  and average medium product is **(17)**  whose prices are approximately **20,000 , 37, and 10,000 rupees** respectively.
- - Average spend on highest product **(10.0)** in product_category_2 , lowest average product **(7.0)** is  and average medium product is **(17.0)**  whose prices are approximately **15,000 , 6000, and 9,000 rupees** respectively.
- - Average spend on highest product **(3.0)** in product_category_2 , lowest average product **(0.0)** is  and average medium product is **(11.0)**  whose prices are approximately **14,000 , 8000, and 12,000 rupees** respectively.
+ - Average spend on highest product **(10)** in product_category_1 , lowest average product **(19)** is  and average medium product is **(17)**  whose prices are approximately **20,000 , 37, and 10,000 rupees** respectively.
+  - Average spend on highest product **(10.0)** in product_category_2 , lowest average product **(7.0)** is  and average medium product is **(17.0)**  whose prices are approximately **15,000 , 6000, and 9,000 rupees** respectively.
+  - Average spend on highest product **(3.0)** in product_category_2 , lowest average product **(0.0)** is  and average medium product is **(11.0)**  whose prices are approximately **14,000 , 8000, and 12,000 rupees** respectively.
  
  #### Q.9 What average spend on each city?
  <img width="672" alt="Screenshot 2023-04-25 at 12 27 55" src="https://user-images.githubusercontent.com/127043120/234262892-22659025-92ee-4ac7-8934-3673e15e8bfa.png">
@@ -172,7 +172,7 @@
 
 #### Q.10 What average spend on each occupation?
 <img width="1006" alt="Screenshot 2023-04-25 at 12 30 58" src="https://user-images.githubusercontent.com/127043120/234263548-9807e3a5-c796-4426-8893-da5ca9a448b7.png">
-- Occupation 17 has highest average spend i.e. approxiately rupees 9804 followed by occupation 15 and occupation 12 i.e. approximately  9793 and 9791 respectively.
+  - Occupation 17 has highest average spend i.e. approxiately rupees 9804 followed by occupation 15 and occupation 12 i.e. approximately  9793 and 9791 respectively.
 
 #### Q.11 Top 10 most popular sold products?
 ![Screenshot 2023-04-25 at 12 32 38](https://user-images.githubusercontent.com/127043120/234263920-d5b6bd38-4304-491a-ad8e-eaf9d3bfd612.png)
